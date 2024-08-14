@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/project-tableorder/static/css/main.2ca0f3b0.css",
+    "main.js": "/project-tableorder/static/js/main.f985ffd6.js",
+    "static/js/453.ca3ede5b.chunk.js": "/project-tableorder/static/js/453.ca3ede5b.chunk.js",
+    "static/media/밀크티.jpg": "/project-tableorder/static/media/밀크티.52710374c076b5ddee1a.jpg",
+    "static/media/얼그레이.jpg": "/project-tableorder/static/media/얼그레이.c5602f67774ad5e7282d.jpg",
+    "static/media/망고바나나스무디.jpg": "/project-tableorder/static/media/망고바나나스무디.f82c80425be8a95a2b9a.jpg",
+    "static/media/플랫화이트.jpg": "/project-tableorder/static/media/플랫화이트.280df7b954b0ecb7c2a0.jpg",
+    "static/media/레몬티.jpg": "/project-tableorder/static/media/레몬티.f300b1da6a910dab44a8.jpg",
+    "static/media/카푸치노.jpg": "/project-tableorder/static/media/카푸치노.bf1629a1785cd3a310f1.jpg",
+    "static/media/딸기티.jpg": "/project-tableorder/static/media/딸기티.f2fdea538d57d9182537.jpg",
+    "static/media/유자피나콜라다티.jpg": "/project-tableorder/static/media/유자피나콜라다티.9c435a4408c7a8da9b41.jpg",
+    "static/media/코코넛라떼.jpg": "/project-tableorder/static/media/코코넛라떼.2da83e01d559686e18c0.jpg",
+    "static/media/허니자몽블랙티.jpg": "/project-tableorder/static/media/허니자몽블랙티.c3c80e8a54d406a92215.jpg",
+    "static/media/레몬에이드.jpg": "/project-tableorder/static/media/레몬에이드.14693c04037f1af91bef.jpg",
+    "static/media/cafeLogo.png": "/project-tableorder/static/media/cafeLogo.a6f3f736416cf75108d8.png",
+    "static/media/자몽에이드.jpg": "/project-tableorder/static/media/자몽에이드.a79122341308222e10e5.jpg",
+    "static/media/자몽스무디.jpg": "/project-tableorder/static/media/자몽스무디.d74e796721193d0df5dd.jpg",
+    "static/media/패션코코에이드.jpg": "/project-tableorder/static/media/패션코코에이드.26ce4460cb2c93f813d2.jpg",
+    "static/media/구아바모히또.jpg": "/project-tableorder/static/media/구아바모히또.ffa8789fb2ee1531c988.jpg",
+    "static/media/카페라떼.jpg": "/project-tableorder/static/media/카페라떼.42795f178694612605f8.jpg",
+    "static/media/리치티에이드.jpg": "/project-tableorder/static/media/리치티에이드.ba4f9a054203a16a274b.jpg",
+    "static/media/애플시나몬티.jpg": "/project-tableorder/static/media/애플시나몬티.5f9d7e6db4aa3ae37038.jpg",
+    "static/media/카라멜마키아또.jpg": "/project-tableorder/static/media/카라멜마키아또.2d7bccf8ba4689c7b8ab.jpg",
+    "static/media/돌체라떼.jpg": "/project-tableorder/static/media/돌체라떼.fbc314a792f6c6e7cbdd.jpg",
+    "static/media/아메리카노.jpg": "/project-tableorder/static/media/아메리카노.a6bde275c7bd3fa1c5ff.jpg",
+    "static/media/키위에이드.jpg": "/project-tableorder/static/media/키위에이드.29154c660ea2d10ee191.jpg",
+    "static/media/바닐라라떼.jpg": "/project-tableorder/static/media/바닐라라떼.ba193e12d01d19ebd073.jpg",
+    "index.html": "/project-tableorder/index.html",
+    "main.2ca0f3b0.css.map": "/project-tableorder/static/css/main.2ca0f3b0.css.map",
+    "main.f985ffd6.js.map": "/project-tableorder/static/js/main.f985ffd6.js.map",
+    "453.ca3ede5b.chunk.js.map": "/project-tableorder/static/js/453.ca3ede5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ca0f3b0.css",
+    "static/js/main.f985ffd6.js"
+  ]
+}
