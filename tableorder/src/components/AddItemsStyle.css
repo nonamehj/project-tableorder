@@ -132,8 +132,6 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  /* border: 1px solid red; */
-  /* border-bottom: 1px solid rgba(0, 0, 0, 0.6); */
 }
 .addItem-total .payment {
   flex: 0 50%;
