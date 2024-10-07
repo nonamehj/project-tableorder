@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/project-tableorder/static/css/main.f37cdaf3.css",
+    "main.css": "/project-tableorder/static/css/main.c66fc2d5.css",
     "main.js": "/project-tableorder/static/js/main.d31bbc38.js",
     "static/js/453.ca3ede5b.chunk.js": "/project-tableorder/static/js/453.ca3ede5b.chunk.js",
     "static/media/밀크티.jpg": "/project-tableorder/static/media/밀크티.52710374c076b5ddee1a.jpg",
@@ -28,12 +28,12 @@
     "static/media/키위에이드.jpg": "/project-tableorder/static/media/키위에이드.29154c660ea2d10ee191.jpg",
     "static/media/바닐라라떼.jpg": "/project-tableorder/static/media/바닐라라떼.ba193e12d01d19ebd073.jpg",
     "index.html": "/project-tableorder/index.html",
-    "main.f37cdaf3.css.map": "/project-tableorder/static/css/main.f37cdaf3.css.map",
+    "main.c66fc2d5.css.map": "/project-tableorder/static/css/main.c66fc2d5.css.map",
     "main.d31bbc38.js.map": "/project-tableorder/static/js/main.d31bbc38.js.map",
     "453.ca3ede5b.chunk.js.map": "/project-tableorder/static/js/453.ca3ede5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f37cdaf3.css",
+    "static/css/main.c66fc2d5.css",
     "static/js/main.d31bbc38.js"
   ]
 }
